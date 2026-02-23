@@ -1,6 +1,6 @@
 masuk kedalam aws.amazon.com
 
-<img width="1362" height="726" alt="image" src="https://github.com/user-attachments/assets/f4d94f07-1533-4084-8d03-c1b1c3a81a02" />
+<img width="1365" height="731" alt="image" src="https://github.com/user-attachments/assets/74a65c12-8bfa-4b29-8ddd-9a02f4ed1ba0" />
 
 lalu klik buat akun
 
@@ -33,3 +33,4 @@ contoh sukses
 tampilan akun dashboard nya
 
 <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/5c471695-6158-4246-8f3a-dc3184456a68" />
+
