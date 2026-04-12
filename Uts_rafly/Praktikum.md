@@ -23,7 +23,8 @@ systemctl status nginx
 
 3. set up cloudWatch
 ![alt text](image-5.png)
-Screenshot 2026-04-12 235908.png
+<img width="1364" height="767" alt="image" src="https://github.com/user-attachments/assets/6ef7470c-778f-4eae-bff7-de9d8e3d728d" />
+
 
 5. set up elasticIp
 ![alt text](image-6.png)
