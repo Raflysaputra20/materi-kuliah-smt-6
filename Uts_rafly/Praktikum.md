@@ -25,11 +25,13 @@ systemctl status nginx
 ![alt text](image-5.png)
 <img width="1364" height="767" alt="image" src="https://github.com/user-attachments/assets/6ef7470c-778f-4eae-bff7-de9d8e3d728d" />
 
+4. securty groub
+   <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/5c9d8dbd-4278-4828-8d60-de7adabed07e" />
 
 5. set up elasticIp
 ![alt text](image-6.png)
 
-6. deployment
+7. deployment
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-11.png)
