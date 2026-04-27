@@ -32,7 +32,7 @@ Melakukan Uploading Web Apps Dynamic ke EC2 AWS
 
 DB_HOST=localhost DB_USER=userCompro DB_PASSWORD=passwordCompro DB_NAME=dbCompro DB_PORT=3306
 
-NEXTAUTH_SECRET=ganti-dengan -string-acak-panjang-minimal-32-karakter NEXTAUTH_URL=http://34.231.241.197:3000/
+NEXTAUTH_SECRET=ganti-dengan -string-acak-panjang-minimal-32-karakter NEXTAUTH_URL=http://192.168.56.1:3000/
 
 6. Di termiinal ssh cd ke folderstandalone run apps -pm2 start server.js -pm2 save -pm2 startup 
 
